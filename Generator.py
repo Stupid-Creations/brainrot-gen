@@ -1,6 +1,6 @@
 # # # import google.generativeai as genai
 
-# # # genai.configure(api_key="AIzaSyARcqGtkhHuHstUjErjF3EiZw1BlHnW5L4")
+# # # genai.configure(api_key="Pls don't take mine, it's free :(")
 # # # model = genai.GenerativeModel("gemini-1.5-flash")
 
 # # # response = model.generate_content("You are an expert short form content creator. Write a 1 minute speech on the french revolution on basis of the class 9th NCERT for SST. Do not put in any sort of decorators, and only provide plain text. Answer in a maximum of 140 words")
